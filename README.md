@@ -23,7 +23,9 @@
 
 <footer>
   <hr>
-  <img width="40%" src="https://64.media.tumblr.com/f43ebe850a4d5991e58a5b3864af7a88/tumblr_pe29k7KoLm1r8r6mfo1_500.gifv" alt="discord_img">
+  <div align="middle">
+    <img width="40%" src="https://64.media.tumblr.com/f43ebe850a4d5991e58a5b3864af7a88/tumblr_pe29k7KoLm1r8r6mfo1_500.gifv" alt="discord_img">
+  </div>
 </footer>
 
 
