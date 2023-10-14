@@ -5,7 +5,7 @@
 <section>
   <h3>Description</h3>
   <p>
-    - 🔭 I’m currently working on front-end developer; <br>
+    - 🔭 I’m currently working on front-end development; <br>
     - 🌱 I’m currently learning HTML5, CSS3, JavaScript and git; <br>
     - 🤔 I’m looking for help with server-side. <br>
   </p>
