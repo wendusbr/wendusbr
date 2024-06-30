@@ -1,7 +1,7 @@
 # 🐒 Hello, World!
 
 ### Description
-> Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis :]
+> Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis. :]
 
 ### Technologies
 > I worked with...
