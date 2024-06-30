@@ -1,10 +1,19 @@
-# <img width="40" height="40" src="https://media.tenor.com/CckHrZAlQgYAAAAi/pokemon-treecko.gif" alt="discord_img"> Hello, World!
+# 🐒 Hello, World!
 
 ### Description
+> Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis :]
 
-- 🔭 I'm currently learning. Look at my projects...
+### Technologies
+> I worked with...
 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
+> I’m currently learning...
+
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+### My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendusbr&layout=compact&theme=cobalt)
 
 <!--
 **wendusbr/wendusbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
