@@ -14,7 +14,7 @@ Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis. :]
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendusbr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendusbr&layout=compact&theme=dark)
 
 <!--
 **wendusbr/wendusbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
