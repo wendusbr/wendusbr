@@ -9,10 +9,11 @@ Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<!-- 
+
 ### My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendusbr&layout=compact&theme=dark)
 
-<!--
 **wendusbr/wendusbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
