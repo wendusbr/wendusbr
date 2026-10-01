@@ -6,8 +6,8 @@ Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
 ![snake](https://raw.githubusercontent.com/wendusbr/wendusbr/output/snake.svg)
 
 ## Try `gogoto`
-[repository](https://github.com/wendusbr/gogoto) | [npm](https://www.npmjs.com/package/gogoto)
-> Tuple format for yours requests and promises.
+<!-- [repository](https://github.com/wendusbr/gogoto) | [npm](https://www.npmjs.com/package/gogoto) -->
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=wendusbr&repo=gogoto&theme=dark_github)](https://github.com/wendusbr/gogoto)
 
 ## Tech Stack
 ### Languages
@@ -45,6 +45,7 @@ Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23192a32.svg?style=for-the-badge&logo=prettier&logoColor=dc524a)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+
 
 <!-- 
 
