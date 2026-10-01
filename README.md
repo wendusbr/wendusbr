@@ -29,6 +29,9 @@ Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
 ![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ### Documentation Platforms
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
