@@ -40,7 +40,8 @@ Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
 ![Prettier](https://img.shields.io/badge/prettier-%23192a32.svg?style=for-the-badge&logo=prettier&logoColor=dc524a)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
-## Try [`gogoto`](https://github.com/wendusbr/gogoto)
+## Try `gogoto`
+[repository](https://github.com/wendusbr/gogoto) | [npm](https://www.npmjs.com/package/gogoto)
 > Tuple format for yours requests and promises.
 
 <!-- 
