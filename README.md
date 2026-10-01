@@ -1,16 +1,43 @@
 # 🐒 Hello, World!
 
-### Description
+## Description
 Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
 
-### My Technologies
-
+## Tech Stack
+### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Try [`gogoto`](https://github.com/wendusbr/gogoto)
+### Databases
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ORM's
+![Prisma](https://img.shields.io/badge/Prisma-%233982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Operating System
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Documentation Platforms
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+
+### Frameworks, Platforms and Libraries
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23192a32.svg?style=for-the-badge&logo=prettier&logoColor=dc524a)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+
+## Try [`gogoto`](https://github.com/wendusbr/gogoto)
 > Tuple format for yours requests and promises.
 
 <!-- 
