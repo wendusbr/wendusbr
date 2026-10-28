@@ -1,4 +1,4 @@
-# ![Dancing Banana](./dancing-banana.gif) Hello, World!
+# <img src="./dancing-banana.gif" width="24" height="24" alt="Dancing Banana"> Hello, World!
 
 ## Description
 Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
