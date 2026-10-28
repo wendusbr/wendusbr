@@ -1,4 +1,4 @@
-# 🐒 Hello, World!
+# ![Dancing Banana](./dancing-banana.gif) Hello, World!
 
 ## Description
 Hi, my name is Wendell Bernardo Freitas Souza, I love coding and monkis.
